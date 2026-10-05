@@ -1,0 +1,17 @@
+{
+    "name": "skidwars",
+    "version": "1.0.0",
+    "description": "A Krunker Cheat for SKIDS like @offsetwizard",
+    "license": "MIT",
+    "author": "zedboy",
+    "type": "module",
+    "main": "src/index.ts",
+    "scripts": {
+        "build": "rsbuild build"
+    },
+    "devDependencies": {
+        "@rsbuild/core": "^2.2.8",
+        "@rsbuild/plugin-svelte": "^2.0.1",
+        "typescript": "^6.0.3"
+    }
+}
